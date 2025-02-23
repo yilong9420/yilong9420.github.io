@@ -2,7 +2,7 @@
 
 [![yilong9420](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/yilong9420)
 
-他目前正在准备广西大学计算机科学与技术学院计算机科学硕士学位的入学考试。
+正在准备广西大学计算机科学与技术学院计算机科学硕士学位的入学考试。
 
 #### Email
 
