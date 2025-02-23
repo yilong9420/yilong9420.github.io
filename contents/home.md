@@ -14,5 +14,5 @@
 
 #### Research Interests
 
-深度学习, 人工智能
+深度学习; 人工智能
 
