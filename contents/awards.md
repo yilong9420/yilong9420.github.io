@@ -1,13 +1,15 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- 国家级荣誉：
+  - 2021年ICAN全国大学生创新创业竞赛国家级三等奖
+- 省级荣誉：
+  - 2022年大学生算法大赛省级三等奖
+  - 2022年第八届安徽省“互联网+”大学生创新创业大赛铜奖
+  - 2022年第十届“挑战杯 华安证券”省级铜牌
+- 校级荣誉：
+  - 2021年皖江工学院优秀学生干事
+  - 2021年第七届“互联网+”创新创业大赛三等奖
+  - 2022年皖江工学院科技创新奖学金
+  - 2022年“三下乡”暑期社会实践优秀团队
+- 其他：
+  - 大学英语四级证书
+  - 计算机二级证书
+  - 电子商务师证书
